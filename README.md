@@ -1,5 +1,8 @@
 # Aplikasi Regresi Linier untuk Penentuan Parameter Model Kinetika Pertumbuhan Mikroba
 
+**Nama:** Muhammad Pavel  
+**NPM:** 2306242363
+
 ## Daftar Isi
 - [Pendahuluan](#pendahuluan)
 - [Teori Dasar](#teori-dasar)
